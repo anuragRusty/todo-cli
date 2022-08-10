@@ -1,7 +1,8 @@
-# todo cli
+# todo-cli
 Simple cli app to create and save todo-list in a text file.
 
 ![](https://github.com/anuragRusty/todo-cli/blob/main/snapshot.gif)
+todo-cli running on Android Device using Termux.
 
 #
 ## To compile !
