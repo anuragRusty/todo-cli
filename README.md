@@ -1,7 +1,7 @@
 # todo cli
 Simple cli app to create and save todo-list in a text file.
 
-![Logo](https://ibb.co/SXzLWW7][img]https://i.ibb.co/rGVWTTf/ezgif-com-gif-maker-1.gif)
+![Logo](https://iili.io/UUmY8B.th.gif)
 
 #
 ## To compile !
