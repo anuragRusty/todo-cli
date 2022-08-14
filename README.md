@@ -16,8 +16,8 @@ todo-cli running on Android Device using Termux.
    !u  #to undo.
    !r  #to redo.
    !s  #to save.
-   !q  #to quite.
-   !sq #to save and quite.
+   !q  #to quit.
+   !sq #to save and quit.
    n   #to delete item from list example 6 to delete number 6 item.
    tn  #to tick item example "t6" to tick item number 6.
    cn  #to cross item example "c6" to cross item number 6.
